@@ -1,0 +1,14 @@
+.hero {
+  box-sizing: border-box;
+  font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  font-size: 3vw;
+}
+
+body {
+  padding: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(174, 159, 159);
+
+}
