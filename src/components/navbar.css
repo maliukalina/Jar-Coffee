@@ -1,0 +1,19 @@
+
+nav {
+    display:flex;
+    justify-content: space-evenly;
+    padding: 1em;
+    border: 1px brown;
+    background-color:rgb(89, 80, 80);
+    font-weight: 700;
+    font-size: 50px;
+    color: cornsilk;
+    
+}
+
+.beans {
+    height:auto;
+    width:600px;
+
+}
+
